@@ -1,0 +1,17 @@
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.csproj.AssemblyReference.cache
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.GeneratedMSBuildEditorConfig.editorconfig
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.AssemblyInfoInputs.cache
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.AssemblyInfo.cs
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.csproj.CoreCompileInputs.cache
+F:\học\test\Rabbit\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.exe
+F:\học\test\Rabbit\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.deps.json
+F:\học\test\Rabbit\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.runtimeconfig.json
+F:\học\test\Rabbit\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.dll
+F:\học\test\Rabbit\ReceiveLogs\bin\Debug\net6.0\ReceiveLogs.pdb
+F:\học\test\Rabbit\ReceiveLogs\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.csproj.CopyComplete
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.dll
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\refint\ReceiveLogs.dll
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.pdb
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ReceiveLogs.genruntimeconfig.cache
+F:\học\test\Rabbit\ReceiveLogs\obj\Debug\net6.0\ref\ReceiveLogs.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+3RLjKx6GgvweSiYmezWahijjePqO4CBWwQz0MwRT/LCT5EdVBQHsFvvMYH3pHpBLIT0XRdcMc7gFsrCBIEJPw==",
+  "success": true,
+  "projectFilePath": "F:\\học\\test\\Rabbit\\EmitLog\\EmitLog.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Duong\\.nuget\\packages\\rabbitmq.client\\6.2.4\\rabbitmq.client.6.2.4.nupkg.sha512",
+    "C:\\Users\\Duong\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Duong\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

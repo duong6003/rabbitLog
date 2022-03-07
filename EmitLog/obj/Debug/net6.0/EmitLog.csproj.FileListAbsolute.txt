@@ -1,0 +1,17 @@
+F:\học\test\Rabbit\EmitLog\bin\Debug\net6.0\EmitLog.exe
+F:\học\test\Rabbit\EmitLog\bin\Debug\net6.0\EmitLog.deps.json
+F:\học\test\Rabbit\EmitLog\bin\Debug\net6.0\EmitLog.runtimeconfig.json
+F:\học\test\Rabbit\EmitLog\bin\Debug\net6.0\EmitLog.dll
+F:\học\test\Rabbit\EmitLog\bin\Debug\net6.0\EmitLog.pdb
+F:\học\test\Rabbit\EmitLog\bin\Debug\net6.0\RabbitMQ.Client.dll
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.csproj.AssemblyReference.cache
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.GeneratedMSBuildEditorConfig.editorconfig
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.AssemblyInfoInputs.cache
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.AssemblyInfo.cs
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.csproj.CoreCompileInputs.cache
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.csproj.CopyComplete
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.dll
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\refint\EmitLog.dll
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.pdb
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\EmitLog.genruntimeconfig.cache
+F:\học\test\Rabbit\EmitLog\obj\Debug\net6.0\ref\EmitLog.dll
